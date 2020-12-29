@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Here is my online pet Django projects:
-* 🔭 Character creation [site](https://windowhero.herokuapp.com/) with stats and levelin up
+Here is my online pet Django projects, you can visit them (if they are up 😄):
+* 🔭 [Character creation project](https://windowhero.herokuapp.com/) with stats and leveling up
 * 💬 [Blog example](https://rutasblog.herokuapp.com/)
 
 Here is small console game written on Python where you have to find treasure:
