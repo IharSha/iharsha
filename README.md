@@ -24,11 +24,6 @@ Also, I enjoy problem solving:
 * And [here](https://www.hackerrank.com/Rutik) is my profile with achievements and badges on the HackerRank.
 <br>
 
-
-<a href="https://www.linkedin.com/in/ihar-shabes-278576103/">
-    <img src="https://img.shields.io/badge/linkedin-414141.svg?&style=for-the-badge&logo=linkedin" />
-</a>
-<br>
-
-[![Years Badge](https://badges.pufler.dev/years/iharsha)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/iharsha/iharsha)](https://badges.pufler.dev)
+* [![Linkedin image](https://img.shields.io/badge/linkedin-414141.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ihar-shabes-278576103/)
+* [![Years Badge](https://badges.pufler.dev/years/iharsha)](https://badges.pufler.dev)
+* [![Visits Badge](https://badges.pufler.dev/visits/iharsha/iharsha)](https://badges.pufler.dev)
