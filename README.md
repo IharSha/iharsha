@@ -1,7 +1,7 @@
 ### Hi there 👋
 ✨You found a secret page of a Python software engineer.✨
 
-Here is my online pet Django projects, you can visit them (if they are up 😄):
+Here is my online pet Django projects, you can try to visit them (if they are up 😄):
 * 🔭 [Character creation project](https://windowhero.herokuapp.com/) with stats and leveling up ([Source code](https://github.com/IharSha/build_a_hero)).
 * 💬 [Blog example](https://rutasblog.herokuapp.com/). (Although, never have time to blog 🤔).
 
@@ -16,6 +16,7 @@ Also, I enjoy problem solving:
 
 * Some of the [solutions](https://github.com/IharSha/my_projecteuler) for the projecteuler.net.
 * And [here](https://www.hackerrank.com/Rutik) is my profile with achievements and badges on the HackerRank.
+
 
 ![https://www.linkedin.com/in/ihar-shabes-278576103/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
