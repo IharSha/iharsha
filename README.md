@@ -28,7 +28,7 @@ Also, I enjoy problem solving:
 <a href="https://www.linkedin.com/in/ihar-shabes-278576103/">
     <img src="https://img.shields.io/badge/linkedin-414141.svg?&style=for-the-badge&logo=linkedin" />
 </a>
-<br
+<br>
 
 [![Years Badge](https://badges.pufler.dev/years/iharsha)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/iharsha/iharsha)](https://badges.pufler.dev)
