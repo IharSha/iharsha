@@ -1,7 +1,7 @@
 <h1 align='center'>
   Congratulations!
 </h1>
-<p align='center'>✨You found a secret page of a Python software engineer.✨</p><br>
+<p align='center'>✨You found a secret page of a Python software engineer✨</p><br>
 
 Here is my online pet Django projects, you can try to visit them (if they are up 😄):
 * 🔭 [Character creation project](https://windowhero.herokuapp.com/) with stats and leveling up ([Source code](https://github.com/IharSha/build_a_hero)).
