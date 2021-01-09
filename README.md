@@ -8,8 +8,10 @@ Here is my online pet Django projects, you can try to visit them (if they are up
 * 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, never have time to blog 🤔)
 <br>
 
-You can find my Telegram contest winner quiz [here](https://quiz.directory/quiz/PO8ZNQhk) to check your Python Kung fu 🐍.
-<br><br>
+You can participate in my Telegram contest winner quiz [here](https://quiz.directory/quiz/PO8ZNQhk):
+* To check your Python Kung fu 🐍
+* Start quiz in Telegram group to compete with colleagues or friends
+<br>
 
 A cross-platform app for creating multiple stopwatches and saving them for whatever task you do.<br> For example, you can measure how long it takes what you do on a daily basis (watching movies, working, playing)<br>
 Written in Python with the help of Kivy package for GUI:
