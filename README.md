@@ -21,7 +21,7 @@ Here is a small console game written on Python where you have to find treasure (
 <br>
 
 Also, I enjoy problem solving:
-* Some of the [solutions](https://github.com/IharSha/my_projecteuler) for the projecteuler.net
+* Some of the [solutions](https://github.com/IharSha/my_projecteuler) for the [Project Euler](https://projecteuler.net/)
 * And [here](https://www.hackerrank.com/Rutik) is my profile with achievements and badges on the HackerRank
 <br>
 
