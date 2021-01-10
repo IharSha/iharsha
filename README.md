@@ -4,7 +4,7 @@
 <p align='center'>✨You found a secret page of a Python software engineer at Lyft✨</p><br>
 
 Here is my online pet Django projects, you can try to visit them (if they are up 😄):
-* 🔭 [Character creation project](https://windowhero.herokuapp.com/) with stats and leveling up ([source code](https://github.com/IharSha/build_a_hero))
+* 🔭 [Character creation project](https://windowhero.herokuapp.com/) with levels and other peculiar stuff ([source code](https://github.com/IharSha/build_a_hero))
 * 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, never have time to blog 🤔)
 <br>
 
