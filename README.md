@@ -1,7 +1,7 @@
 <h1 align='center'>
   Congratulations!
 </h1>
-<p align='center'>✨You found a secret page of a Python software engineer✨</p><br>
+<p align='center'>✨You found a secret page of a Python software engineer at Lyft✨</p><br>
 
 Here is my online pet Django projects, you can try to visit them (if they are up 😄):
 * 🔭 [Character creation project](https://windowhero.herokuapp.com/) with stats and leveling up ([source code](https://github.com/IharSha/build_a_hero))
@@ -9,7 +9,7 @@ Here is my online pet Django projects, you can try to visit them (if they are up
 <br>
 
 You can participate in my Telegram contest winner quiz [here](https://quiz.directory/quiz/PO8ZNQhk):
-* To check your Python Kung fu 🐍
+* To check your Python Kung Fu 🐍
 * Start quiz in Telegram group to compete with colleagues or friends
 <br>
 
