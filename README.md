@@ -26,6 +26,9 @@ Also, I enjoy problem solving:
 * Some of the [solutions](https://github.com/IharSha/my_projecteuler) for the [Project Euler](https://projecteuler.net/)
 * And [here](https://www.hackerrank.com/Rutik) is my profile with achievements and badges on the HackerRank
 <br>
+<a href="https://www.credly.com/badges/f62cbdcc-cfec-4f8c-b806-5e76245c95fb" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Certificate Badge" style="width:150px;">
+</a>
 
 #### Links & Stats:
 * [![Linkedin image](https://img.shields.io/badge/linkedin-414141.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ihar-shabes-278576103/)
