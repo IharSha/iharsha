@@ -4,8 +4,8 @@
 <p align='center'>✨You found my GitHub page✨</p><br>
 
 Here is my online pet Django projects, you can try to visit them (if they are up 😄):
-* 🔭 [Character creation project](https://windowhero.herokuapp.com/) with levels and other peculiar stuff ([source code](https://github.com/IharSha/build_a_hero))
-* 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, never have time to blog 🤔)
+* 🔭 [Character creation project](https://windowhero.herokuapp.com/) with level up system and other peculiar stuff (on pause) ([source code](https://github.com/IharSha/build_a_hero))
+* 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, nothing there)
 <br>
 
 You can participate in my Telegram contest winner quiz [here](https://quiz.directory/quiz/PO8ZNQhk):
