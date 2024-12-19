@@ -5,7 +5,7 @@
 
 Here is my online pet Django projects, you can try to visit them (if they are up 😄):
 * 🔭 [Character creation project](https://windowhero.herokuapp.com/) with level up system and other peculiar stuff (on pause) ([source code](https://github.com/IharSha/build_a_hero))
-* 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, nothing there)
+* 💬 [Blog example](https://rutasblog.herokuapp.com/) (although, it's not working now since herokuapp wants money from me, but trust me there was a blog!)
 <br>
 
 You can participate in my Telegram contest winner quiz [here](https://quiz.directory/quiz/PO8ZNQhk):
